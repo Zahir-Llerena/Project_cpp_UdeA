@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Panama;6;2;0;1;5;5;0
+Croatia;4;1;1;1;7;5;2
+Ghana;4;1;1;1;4;3;1
+England;3;1;0;2;5;8;-3
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+England;Croatia;1.43587;1.39236;3;2
+England;Ghana;1.84307;1.37765;0;2
+England;Panama;1.81646;1.00308;2;4
+Croatia;Ghana;1.78722;1.37765;2;2
+Croatia;Panama;1.7614;1.00308;3;0
+Ghana;Panama;1.7428;1.28754;0;1

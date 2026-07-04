@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Egypt;5;1;2;0;5;3;2
+Belgium;5;1;2;0;4;3;1
+New Zealand;4;1;1;1;9;7;2
+Iran;1;0;1;2;3;8;-5
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Belgium;Egypt;1.11665;1.60186;0;0
+Belgium;Iran;1.94419;1.49256;2;1
+Belgium;New Zealand;1.31326;1.75709;2;2
+Egypt;Iran;2.16894;1.16073;1;1
+Egypt;New Zealand;1.46508;1.36645;4;2
+Iran;New Zealand;1.36511;2.37912;1;5

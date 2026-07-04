@@ -1,0 +1,11 @@
+# ============================================================================
+# UNIVERSIDAD DE ANTIOQUIA - INFORMATICA II
+# TOPOLOGIA DE RED DE LA PRACTICA 4 (FIGURA 1)
+# Formato estructurado: Origen,Destino,Costo
+# ============================================================================
+A,B,5
+A,C,11
+A,D,6
+B,C,4
+B,D,2
+C,D,3

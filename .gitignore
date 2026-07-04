@@ -1,0 +1,9 @@
+*.xcodeproj/
+*.xcworkspace/
+build/
+DerivedData/
+*.pro.user
+build-*
+*.o
+*.obj
+*.exe

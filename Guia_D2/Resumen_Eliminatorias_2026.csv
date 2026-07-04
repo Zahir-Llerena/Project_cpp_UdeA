@@ -1,0 +1,105 @@
+Fase;ID;Local;Visita;G_L;G_V;Ganador
+Grupo A;GRP;Mexico;South Africa;0;0;Empate
+Grupo A;GRP;Mexico;Korea Republic;0;1;Korea Republic
+Grupo A;GRP;Mexico;Czech Republic;1;2;Czech Republic
+Grupo A;GRP;South Africa;Korea Republic;1;1;Empate
+Grupo A;GRP;South Africa;Czech Republic;1;1;Empate
+Grupo A;GRP;Korea Republic;Czech Republic;4;0;Korea Republic
+Grupo B;GRP;Canada;Bosnia and Herzegovina;3;1;Canada
+Grupo B;GRP;Canada;Qatar;0;3;Qatar
+Grupo B;GRP;Canada;Denmark;4;1;Canada
+Grupo B;GRP;Bosnia and Herzegovina;Qatar;2;2;Empate
+Grupo B;GRP;Bosnia and Herzegovina;Denmark;0;1;Denmark
+Grupo B;GRP;Qatar;Denmark;3;4;Denmark
+Grupo C;GRP;Brazil;Morocco;0;2;Morocco
+Grupo C;GRP;Brazil;Haiti;0;1;Haiti
+Grupo C;GRP;Brazil;Scotland;2;0;Brazil
+Grupo C;GRP;Morocco;Haiti;2;0;Morocco
+Grupo C;GRP;Morocco;Scotland;2;1;Morocco
+Grupo C;GRP;Haiti;Scotland;1;2;Scotland
+Grupo D;GRP;United States;Paraguay;3;1;United States
+Grupo D;GRP;United States;Australia;1;2;Australia
+Grupo D;GRP;United States;Turkey;0;0;Empate
+Grupo D;GRP;Paraguay;Australia;0;4;Australia
+Grupo D;GRP;Paraguay;Turkey;2;1;Paraguay
+Grupo D;GRP;Australia;Turkey;6;3;Australia
+Grupo E;GRP;Germany;Serbia;1;0;Germany
+Grupo E;GRP;Germany;Nigeria;2;1;Germany
+Grupo E;GRP;Germany;Costa Rica;3;0;Germany
+Grupo E;GRP;Serbia;Nigeria;0;2;Nigeria
+Grupo E;GRP;Serbia;Costa Rica;0;1;Costa Rica
+Grupo E;GRP;Nigeria;Costa Rica;0;0;Empate
+Grupo F;GRP;Netherlands;Japan;0;2;Japan
+Grupo F;GRP;Netherlands;Sweden;0;0;Empate
+Grupo F;GRP;Netherlands;Tunisia;0;1;Tunisia
+Grupo F;GRP;Japan;Sweden;2;2;Empate
+Grupo F;GRP;Japan;Tunisia;0;1;Tunisia
+Grupo F;GRP;Sweden;Tunisia;0;1;Tunisia
+Grupo G;GRP;Belgium;Egypt;0;0;Empate
+Grupo G;GRP;Belgium;Iran;2;1;Belgium
+Grupo G;GRP;Belgium;New Zealand;2;2;Empate
+Grupo G;GRP;Egypt;Iran;1;1;Empate
+Grupo G;GRP;Egypt;New Zealand;4;2;Egypt
+Grupo G;GRP;Iran;New Zealand;1;5;New Zealand
+Grupo H;GRP;Spain;Cabo Verde;0;2;Cabo Verde
+Grupo H;GRP;Spain;Saudi Arabia;0;0;Empate
+Grupo H;GRP;Spain;Uruguay;1;2;Uruguay
+Grupo H;GRP;Cabo Verde;Saudi Arabia;0;0;Empate
+Grupo H;GRP;Cabo Verde;Uruguay;4;1;Cabo Verde
+Grupo H;GRP;Saudi Arabia;Uruguay;2;0;Saudi Arabia
+Grupo I;GRP;France;Senegal;2;3;Senegal
+Grupo I;GRP;France;Iraq;0;0;Empate
+Grupo I;GRP;France;Cameroon;0;3;Cameroon
+Grupo I;GRP;Senegal;Iraq;1;0;Senegal
+Grupo I;GRP;Senegal;Cameroon;0;1;Cameroon
+Grupo I;GRP;Iraq;Cameroon;1;2;Cameroon
+Grupo J;GRP;Argentina;Italy;0;3;Italy
+Grupo J;GRP;Argentina;Austria;2;2;Empate
+Grupo J;GRP;Argentina;Jordan;1;0;Argentina
+Grupo J;GRP;Italy;Austria;2;5;Austria
+Grupo J;GRP;Italy;Jordan;2;1;Italy
+Grupo J;GRP;Austria;Jordan;4;0;Austria
+Grupo K;GRP;Portugal;DR Congo;3;3;Empate
+Grupo K;GRP;Portugal;Uzbekistan;0;0;Empate
+Grupo K;GRP;Portugal;Colombia;1;3;Colombia
+Grupo K;GRP;DR Congo;Uzbekistan;0;3;Uzbekistan
+Grupo K;GRP;DR Congo;Colombia;0;1;Colombia
+Grupo K;GRP;Uzbekistan;Colombia;2;0;Uzbekistan
+Grupo L;GRP;England;Croatia;3;2;England
+Grupo L;GRP;England;Ghana;0;2;Ghana
+Grupo L;GRP;England;Panama;2;4;Panama
+Grupo L;GRP;Croatia;Ghana;2;2;Empate
+Grupo L;GRP;Croatia;Panama;3;0;Croatia
+Grupo L;GRP;Ghana;Panama;0;1;Panama
+R32;M73;Czech Republic;Denmark;2;4;Denmark
+R32;M74;Germany;Qatar;2;2;Germany
+R32;M75;Tunisia;Brazil;0;0;Brazil
+R32;M76;Morocco;Japan;0;3;Japan
+R32;M77;Cameroon;New Zealand;0;0;Cameroon
+R32;M78;Nigeria;Senegal;0;4;Senegal
+R32;M79;Korea Republic;Costa Rica;2;0;Korea Republic
+R32;M80;Panama;Argentina;0;3;Argentina
+R32;M81;Australia;Ghana;5;2;Australia
+R32;M82;Egypt;South Africa;1;0;Egypt
+R32;M83;Colombia;Croatia;1;4;Croatia
+R32;M84;Cabo Verde;Italy;2;0;Cabo Verde
+R32;M85;Canada;Haiti;1;0;Canada
+R32;M86;Austria;Saudi Arabia;4;1;Austria
+R32;M87;Uzbekistan;Uruguay;0;3;Uruguay
+R32;M88;United States;Belgium;0;0;Belgium
+R16;P89;Germany;Cameroon;1;1;Germany
+R16;P90;Denmark;Brazil;3;2;Denmark
+R16;P91;Japan;Senegal;2;0;Japan
+R16;P92;Korea Republic;Argentina;1;0;Korea Republic
+R16;P93;Croatia;Cabo Verde;1;1;Croatia
+R16;P94;Australia;Egypt;0;5;Egypt
+R16;P95;Austria;Belgium;1;2;Belgium
+R16;P96;Canada;Uruguay;1;0;Canada
+QF;QF1;Germany;Denmark;2;3;Denmark
+QF;QF2;Japan;Korea Republic;1;1;Japan
+QF;QF3;Croatia;Egypt;1;1;Croatia
+QF;QF4;Belgium;Canada;0;3;Canada
+SF;SF1;Denmark;Japan;2;2;Japan
+SF;SF2;Croatia;Canada;3;4;Canada
+Final;M103;Denmark;Croatia;4;2;Denmark
+Final;M104;Japan;Canada;0;1;Canada

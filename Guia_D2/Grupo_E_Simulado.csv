@@ -1,0 +1,13 @@
+TABLA;PTS;PG;PE;PP;GF;GC;GD
+Germany;9;3;0;0;6;1;5
+Nigeria;4;1;1;1;3;2;1
+Costa Rica;4;1;1;1;1;3;-2
+Serbia;0;0;0;3;0;4;-4
+
+LOG TECNICO (LAMBDA);VISITA;LAM_L;LAM_V;G_L;G_V
+Germany;Serbia;1.64273;1.15924;1;0
+Germany;Nigeria;1.5445;0.947323;2;1
+Germany;Costa Rica;1.81646;0.947323;3;0
+Serbia;Nigeria;1.24695;1.0838;0;2
+Serbia;Costa Rica;1.46651;1.0838;0;1
+Nigeria;Costa Rica;1.19841;1.01899;0;0
